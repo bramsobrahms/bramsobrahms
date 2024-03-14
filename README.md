@@ -55,17 +55,20 @@
   
 </p>
 
-<br /><br /><br />
+<br /><br />
 
 <div align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bramsobrahms&show_icons=true&locale=en&layout=compact" alt="bramsobrahms" />
 </div>
 
-<br /><br />
+<br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=bramsobrahms&show_icons=true&locale=en" alt="bramsobrahms" />
+<div align=center>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=bramsobrahms&show_icons=true&locale=en" alt="bramsobrahms" />
+</div>
+
+<br />
+
+<div align=center>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bramsobrahms&" alt="bramsobrahms" />
-
-
-
-
+</div>
