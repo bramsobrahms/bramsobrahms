@@ -23,8 +23,7 @@
 
 <br /> <br />
 
-<img align="left" alt="code" width="400" height="400" src="https://cdn.dribbble.com/users/1739134/screenshots/6118892/infirmationssakerhet_startcase_01.gif">
-<br />
+<img align="left" alt="code" width="350" height="350" src="https://cdn.dribbble.com/users/1739134/screenshots/6118892/infirmationssakerhet_startcase_01.gif">
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -55,7 +54,7 @@
   
 </p>
 
-<br /><br />
+<br /><br /><br />
 
 <div align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bramsobrahms&show_icons=true&locale=en&layout=compact" alt="bramsobrahms" />
