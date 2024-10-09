@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Expense manager**
 
-- 🌱 I’m currently learning **Docker** **Spring**
+- 🌱 I’m currently learning **Docker** and **Springboot**
 
 - ⚡ Fun fact **I like to code**
 
