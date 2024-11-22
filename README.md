@@ -66,7 +66,3 @@
 </div>
 
 <br />
-
-<div align=center>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bramsobrahms&" alt="bramsobrahms" />
-</div>
